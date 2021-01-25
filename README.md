@@ -68,7 +68,7 @@
    
    ```
 
-6. Wait for a senior member to approve and merge your content into master. You can continue pushing to your branch, all commits are squished in a single pull request until it is approved.
+6. Wait for a senior member to approve and merge your content into master. You can continue pushing to your branch, all commits are squished into a single pull request until it is approved.
 
    In case of emergency, you can bypass the standard approval procedure:
 
